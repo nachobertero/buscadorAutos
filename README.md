@@ -4,6 +4,15 @@ Filtro que permite buscar vehículos por Marca, Año, Precio Mínimo y Máximo, 
 
 Es una herramienta poderosa diseñada para facilitar la búsqueda de vehículos según criterios específicos. Este filtro permite a los usuarios encontrar vehículos basándose en la marca, año, precio, número de puertas, tipo de transmisión y color. Ideal para concesionarios, compradores de vehículos y plataformas de venta de automóviles.
 
+## Tecnologías Utilizadas
+
+- HTML
+- Css
+- JavaScript
+
+## DEMO
+
+Podés probar el sitio [ACÁ](https://filtrobuscadordeautos.netlify.app/)
 ## Características
 
 - **Búsqueda por Marca**: Encuentra vehículos de tu marca preferida.
