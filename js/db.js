@@ -11,7 +11,7 @@ const autos = [
 	{ 
         marca: 'Audi', 
         modelo: 'A4', 
-        year: 2020, 
+        year: 2024, 
         precio: 40000, 
         puertas: 4, 
         color: 'Negro', 
@@ -38,7 +38,7 @@ const autos = [
 	{
 		marca: 'BMW',
 		modelo: 'Serie 5',
-		year: 2016,
+		year: 2023,
 		precio: 70000,
 		puertas: 4,
 		color: 'Rojo',
@@ -56,7 +56,7 @@ const autos = [
 	{
 		marca: 'Chevrolet',
 		modelo: 'Camaro',
-		year: 2018,
+		year: 2022,
 		precio: 60000,
 		puertas: 2,
 		color: 'Rojo',
@@ -65,7 +65,7 @@ const autos = [
 	{ 
         marca: 'Ford', 
         modelo: 'Mustang', 
-        year: 2019, 
+        year: 2020, 
         precio: 80000, 
         puertas: 2, 
         color: 'Rojo', 
@@ -83,7 +83,7 @@ const autos = [
 	{ 
         marca: 'Audi', 
         modelo: 'A3', 
-        year: 2017, 
+        year: 2019, 
         precio: 55000, 
         puertas: 2, 
         color: 'Negro', 
@@ -102,7 +102,7 @@ const autos = [
 	{
 		marca: 'Mercedes Benz',
 		modelo: 'Clase C',
-		year: 2018,
+		year: 2024,
 		precio: 45000,
 		puertas: 4,
 		color: 'Azul',
@@ -129,7 +129,7 @@ const autos = [
 	{
 		marca: 'Dodge',
 		modelo: 'Challenger',
-		year: 2015,
+		year: 2013,
 		precio: 35000,
 		puertas: 2,
 		color: 'Azul',
@@ -147,7 +147,7 @@ const autos = [
 	{
 		marca: 'BMW',
 		modelo: 'Serie 5',
-		year: 2017,
+		year: 2024,
 		precio: 80000,
 		puertas: 4,
 		color: 'Negro',
@@ -165,7 +165,7 @@ const autos = [
 	{ 
         marca: 'Audi', 
         modelo: 'A4', 
-        year: 2016, 
+        year: 2023, 
         precio: 30000, 
         puertas: 4, 
         color: 'Azul', 
